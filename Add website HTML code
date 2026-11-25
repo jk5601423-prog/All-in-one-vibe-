@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All in One Vibe</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101018;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 25px;
+      background: #1c1c29;
+      font-size: 25px;
+      font-weight: bold;
+    }
+    main {
+      padding: 80px 20px;
+    }
+    h1 { color: #8b5cf6; }
+    p { color: #ccc; }
+    button {
+      padding: 14px 28px;
+      background: #8b5cf6;
+      color: white;
+      border: 0;
+      border-radius: 10px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <header>All in One Vibe</header>
+  <main>
+    <h1>Welcome to All in One Vibe!</h1>
+    <p>Connect, Share and Enjoy Together.</p>
+    <button>Get Started</button>
+  </main>
+</body>
+</html>
+
